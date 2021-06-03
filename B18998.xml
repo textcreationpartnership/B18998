@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties intention concerning the setting up of his standard, and levying of warre against both Houses of Parliament wherein he declares his full resolution therein to both the said houses : likewise the resolution of the lords that are now resident with His Majesty : also the parliaments desires to all His Majesties loving subjects, for a meet concurrence with them, to maintain the peace of these kingdoms.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18998</idno><idno type="EEBO-CITATION">12272773</idno>
+  <idno type="VID">197427</idno>
+  <idno type="EEBO-PROQUEST">2240969663</idno>
+  
+            <idno type="STC">Wing C2352</idno>
+            <idno type="OCLC">12272773</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties intention concerning the setting up of his standard, and levying of warre against both Houses of Parliament wherein he declares his full resolution therein to both the said houses : likewise the resolution of the lords that are now resident with His Majesty : also the parliaments desires to all His Majesties loving subjects, for a meet concurrence with them, to maintain the peace of these kingdoms.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Blunon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 6, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197427:1"/>
+            <p>THE KINGS MAIESTIES INTENTION CONCERNING The Setting up of His Standard, and Levying of warre against both Houses of <hi>Parliament;</hi> Wherein he Declares his full Resolution therein to both the said Houses.</p>
+            <p>Likewise the Resolution of the Lords that are now resident with His Majesty.</p>
+            <p>Also the Parliaments Desires to all his Maje<g ref="char:EOLhyphen"/>sties loving Subjects, for a meet concurrence with them, to maintain the Peace of these Kingdoms.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Lords and Commons, that this be printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>IOHN BROWN Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for <hi>H. Blunon. August</hi> 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197427:2"/>
+            <pb n="1" facs="tcp:197427:2"/>
+            <head>HIS MAJESTIES RESOLUTION Concerning the setting up of his <hi>Standard.</hi>
+            </head>
+            <p>LOng hath the Subjects of this Kingdome bin possessed with Fears and Iealousies, and bore the heavie Burthens that hath beene cast upon them, by the Enemies of Gods true Re<g ref="char:EOLhyphen"/>ligion, and Adversaries to the peace and prosperi<g ref="char:EOLhyphen"/>ty of this Kingdome, the said Enemy is the Ma<g ref="char:EOLhyphen"/>lignant Party, who hath now raised many Forces in a warlike manner in severall Counties of this Realme, the greatest part of them consisting of Papists and adherents to the See of <hi>Rome,</hi> who do now see and well perceive, that the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:197427:3"/> making progresse according to their begin<g ref="char:EOLhyphen"/>nings, will take away the least hopes of ever E<g ref="char:EOLhyphen"/>stablishing, that Antichristian Religion here a<g ref="char:EOLhyphen"/>mongst us; yea, and take away the very Ground-worke of such their Plots and Projects this way: And therfore it stands them now upon some Lat<g ref="char:EOLhyphen"/>bour with all might and main to adventure upon any Design (though never so desperate) and to give out themselves in their Estates, Lives, and Livelyhoods, to the uttermost they can.</p>
+            <p>For now or never must the Pope up or downe in this Kingdome.</p>
+            <p>Let any seeing man look back upon all former Proceedings, and consider who hath been prefer<g ref="char:EOLhyphen"/>red to the highest places in the Church.</p>
+            <p>The reason why this Parliament is hated more then other Parliaments have bin formerly, is, be<g ref="char:EOLhyphen"/>cause it hath found out more Delinquents then any other Parliaments have done formerly, and hath gone farther in searching and curing wounds and Diseases, and Establishing a perfect Refor<g ref="char:EOLhyphen"/>mation both in Church and State, then ever any did.</p>
+            <p>Long intermission of Parliaments having fil<g ref="char:EOLhyphen"/>led this Common-wealth so universally with ill Humours (that in this old doting Age, wherein it drawes to its period) wee can neither endure its Diseases, nor the Remedies, And herein this Parliament is most unhappy.</p>
+            <p>It cannot be broken without the consent of the Lords and Commons: Ever since which Act
+<pb n="3" facs="tcp:197427:3"/> past, all wayes have bin broken by the Court fa<g ref="char:EOLhyphen"/>ction, to dissolve or destroy it.</p>
+            <p>But because I will not treat too long upon the Actions of these persons, I will now come unto the full Subject, wherein his Majesty hath declared his full Resolution.</p>
+            <p>His Gracious Majesty having taken into con<g ref="char:EOLhyphen"/>sideration the great scandall that hath beene laid upon his Highnesse, concerning his intention to leavie warre against both his Houses of Parlia<g ref="char:EOLhyphen"/>ment, there having beene many Rumours spread and informations given, which might have induced many to beleeve, that his Majesty intends to make Warre against his Parliament.</p>
+            <p>He professeth before God, and Declares to all the world, that hee always hath and doth abhorre all such Designs, and desires all His Nobility and Councell, who are now attending upon his Roy<g ref="char:EOLhyphen"/>all and Sacred Majesty, to Declare whether they have not bin witnesses of his frequent and earnest Declarations and Professions to this purpose, whether they see any colour of preparations of warre, that hee intendeth against his Houses of Parliament, or Counsels that might reasonably beget a Beleefe of any such Design, and whether they be not fully perswaded, that his Maj. hath no such intentions, but that all his endeavours (according to his many professions) tend to the firme and constant settlement of the true Prote<g ref="char:EOLhyphen"/>stant Profession, the just Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, the liberty of the subject, and the peace and p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>osperity of this Kingdome.</p>
+            <pb n="4" facs="tcp:197427:4"/>
+            <p>And his Majesty no longer desires the blessing and protection of Almigh<g ref="char:EOLhyphen"/>ty God, upon himself and his posterity than he and they shall solemnly ob<g ref="char:EOLhyphen"/>serve the due execution of the Laws, in defence of <hi>Parliaments,</hi> and the just Li<g ref="char:EOLhyphen"/>berties and Priviledges therof.</p>
+            <p>And wheras it hath bin oftentimes divulged, that His Majesty had an in<g ref="char:EOLhyphen"/>tent to set up his Standard neer to <hi>Hull Yorke,</hi> or <hi>Newcastle,</hi> and to raise Armes a<g ref="char:EOLhyphen"/>gainst his Parliament.</p>
+            <p>His Majesty doth protest, taking God the searcher of all hearts to Witnesse, that hee never had any such intention, nor the least thought of any such thing, but alwayes desired the peace and pro<g ref="char:EOLhyphen"/>sperity of this Kingdom, and that if he doth set up his standard, it is but for the defence of his Royall person; for it is Reported in <hi>Leicester-shire,</hi> that his Ma<g ref="char:EOLhyphen"/>jesty is resolved to set it up in that County.</p>
+            <p>But this his Majestie is Resolved to do, that he will have a Guard for the
+<pb n="5" facs="tcp:197427:4"/> safety and security of his own Royall Person, to secure himself and his Prince<g ref="char:EOLhyphen"/>ly Posterity.</p>
+            <p>The Lords and Gentry that are now resident with His Majesty, doe Declare and Protest, that His Majesty hath no intentions to leavie Warre against his Parliament; Neither hath he any desire to bring this his flourishing Kingdome to a Civill-Warre.</p>
+            <p>The Lords and Commons assembled in <hi>Parliament</hi> having taken into consi<g ref="char:EOLhyphen"/>deration the Proceedings of His Maje<g ref="char:EOLhyphen"/>sty, Do Declare, That the Cavaleers doe begin already to take mens Horses from them by force, and commit other Acts of Hostility, and have uncivilly used and searcht a Gentleman sent from the Parliament with a Letter to his Maje<g ref="char:EOLhyphen"/>stie.</p>
+            <p>They do also Declare, That his Maje<g ref="char:EOLhyphen"/>sty is shortly expected to come to <hi>Hull,</hi> with an army, and hath also sent a strong Garrison to New-Castle.</p>
+            <p>The Warre being thus begunne, the
+<pb n="6" facs="tcp:197427:5"/> Lords and Commons in Parliament as<g ref="char:EOLhyphen"/>sembled, do hold themselves bound in Conscience to raise Forces for the pre<g ref="char:EOLhyphen"/>servation of the peace of the Kingdome and protection of the Subjects in their Persons and Estates.</p>
+            <p>In the performing of which they de<g ref="char:EOLhyphen"/>sire the concurrence of the well-dispo<g ref="char:EOLhyphen"/>sed Subjects of this Kingdome, and shall manifest by their Courses and Endea<g ref="char:EOLhyphen"/>vours, that they are carryed away by no Respects but of the publique good, which they will always preferre before their own lives and fortunes.</p>
+            <p>This is the Resolution of his Majesty it being Declared in the fore-going par<g ref="char:EOLhyphen"/>ticulars, and in this latter part is decla<g ref="char:EOLhyphen"/>red the Desires of both the Honourable Houses of Parliament.</p>
+            <closer>
+               <signed>
+                  <hi>Ordered that this be printed and published.</hi> John Brown Cler. Parl.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
